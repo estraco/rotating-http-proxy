@@ -1,6 +1,6 @@
 {
   "name": "rotating-http-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy to use rotating HTTP proxy server with types included",
   "main": "build/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "rotating"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.6.1",
     "@typescript-eslint/eslint-plugin": "^5.31.0",
